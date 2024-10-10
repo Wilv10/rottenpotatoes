@@ -1,0 +1,18 @@
+current directory: /home/wilv10/rottenpotatoes/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/home/wilv10/.rvm/rubies/ruby-3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/wilv10/rottenpotatoes/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241009-54632-houqvo sitelibdir\=./.gem.20241009-54632-houqvo clean
+
+current directory: /home/wilv10/rottenpotatoes/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241009-54632-houqvo sitelibdir\=./.gem.20241009-54632-houqvo
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/wilv10/rottenpotatoes/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241009-54632-houqvo sitelibdir\=./.gem.20241009-54632-houqvo install
+/usr/bin/install -m 0755 cruby.so ./.gem.20241009-54632-houqvo/skiptrace/internal
+
+current directory: /home/wilv10/rottenpotatoes/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241009-54632-houqvo sitelibdir\=./.gem.20241009-54632-houqvo clean
